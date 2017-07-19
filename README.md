@@ -19,12 +19,14 @@ Creating a Great Writeup
 ---
 For this project, a great writeup should provide a detailed response to the "Reflection" section of the [project rubric](https://review.udacity.com/#!/rubrics/322/view). There are three parts to the reflection:
 
-** 1. Describe the pipeline **
-My pipeline includes five steps. Firstly, a color image is converted to grayscale. 
+## 1. Describe the pipeline
+My pipeline included six steps. 
 
-** 2. Identify any shortcomings **
+Step1:  a color image was converted to grayscale. , a gaussian kernel was applied to smooth the grayscalor image. In the third step, canny edge detected was used to 
 
-** 3. Suggest possible improvements **
+## 2. Identify any shortcomings
+
+## 3. Suggest possible improvements
 
 We encourage using images in your writeup to demonstrate how your pipeline works.  
 
